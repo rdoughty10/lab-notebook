@@ -8,3 +8,6 @@ They tested their tool, as well as seqscreen and a few others, on this dataset, 
 - Sometimes seqscreen would not correctly identify the toxin (specifically in ONT mode)
 
 
+#### Daily Notes Information
+[[2025-01-02]] Updates on full runs of seqscreen on toxin datasets, including how and where things were run. Also includes early detail about the outcomes of the k=4 run. 
+[[2025-01-03]] Updates on the results of the full runs on toxin datasets with windowed mode and the ONT k=4 run. 
